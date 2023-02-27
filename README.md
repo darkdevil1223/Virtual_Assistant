@@ -13,6 +13,11 @@ This is a Python-based virtual assistant that can help you with various tasks su
 
 # Requirements
 `Python 3.x`
+
+## install a wheel
+
+`pip install PyAudio-0.2.11-cp39-cp39-win_amd64.whl`
+
 # Clone this repository:
 
 ```bash
