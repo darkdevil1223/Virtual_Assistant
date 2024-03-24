@@ -89,7 +89,7 @@ if __name__ =="__main__":
 
 
 		elif'play' in query:
-			music_dir = 'C:\\Users\\91986\\OneDrive\\Documents\\code\\songs'
+			music_dir = 'C:\\Users\\Sarth\\OneDrive\\Desktop\\songs'
 			songs = os.listdir(music_dir)
 			print(songs)
 			# list = [1,2,3,4,5,6,7,8,9,10,11,12,13]
